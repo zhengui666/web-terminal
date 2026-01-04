@@ -28,7 +28,8 @@ docker run --rm -p 3000:3000 web-terminal
 ## Deploy to Zeabur
 Click the button below to deploy this repository to Zeabur in one step:
 
-[![Deploy on Zeabur](https://zeabur.com/button.svg)](https://zeabur.com/templates?template=https://github.com/your-org/web-terminal)
+[![Deploy on Zeabur](https://zeabur.com/button.svg)](https://zeabur.com/deploy?template=https://github.com/zhengui666/web-terminal)
+
 
 ## Environment Variables
 - `PORT` (optional): Port for the HTTP and WebSocket server. Defaults to `3000`.
